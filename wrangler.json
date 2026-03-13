@@ -1,0 +1,16 @@
+{
+	"compatibility_date": "2025-10-08",
+	"main": "src/index.ts",
+	"name": "unicornanticheat",
+	"upload_source_maps": true,
+	"d1_databases": [
+		{
+			"binding": "DB",
+			"database_id": "c9c1a801-a399-4c2e-accf-a1dacae51ae7",
+			"database_name": "UnicornAntiCheat"
+		}
+	],
+	"observability": {
+		"enabled": true
+	}
+}
